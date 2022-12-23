@@ -1,4 +1,4 @@
-import asset from "./spiral.frag?raw"
+import asset from "./waves.frag?raw"
       document.addEventListener("DOMContentLoaded", function(event) {
         console.log(window.glsl)
 
