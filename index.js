@@ -1,4 +1,4 @@
-import asset from "./waves.frag?raw"
+import asset from "./vortex.frag?raw"
       document.addEventListener("DOMContentLoaded", function(event) {
         console.log(window.glsl)
 
